@@ -1,8 +1,8 @@
-#include <stdio.c>
+#include <iostream>
 
 int main()
 {
-    print('hello');
+    std::cout << 11 << std::endl;
     // Creating a new branch is quick.
     // Creating a new branch is quick and simple.
 }
