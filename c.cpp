@@ -8,6 +8,7 @@ int main()
         std::cout << i << std::endl;
     }
     std::cout << "fighting!" << std::endl;
+    std::cout << "Peking!" << std::endl;
     // Creating a new branch is quick.
     // Creating a new branch is quick and simple.
 }
